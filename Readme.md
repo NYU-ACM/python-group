@@ -11,7 +11,7 @@
   * pipenv install requests 
 
 #### 2. edit the config file
-* $ mv aspace_htpp/config.ini_template aspace_http/config.ini
+* $ mv config.ini_template config.ini
 * $ nano config.ini * and change the values to valid ones
 
 #### 3. run the examples
