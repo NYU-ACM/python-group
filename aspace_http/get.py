@@ -5,7 +5,7 @@ import json
 
 def main():
   config = configparser.ConfigParser()
-  config.read("config.ini")
+  config.read("aspace_http/config.ini")
   config.sections
 
   aspace_host = config['aspace']['host']
