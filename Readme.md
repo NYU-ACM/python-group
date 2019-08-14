@@ -3,9 +3,10 @@
 ### How to run examples
 
 #### 1. install project and requirements:
+  * $ cd /path/to/where/you/want/to/install
   * $ git clone https://github.com/NYU-ACM/python-group.git
   * $ cd /Path/To/python-group
-  * if you do not have pipenv installed
+  * if you do not have pipenv installed 
     * $ pip install --user pipenv
   * pipenv install requests 
 
