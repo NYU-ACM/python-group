@@ -18,7 +18,8 @@ def main():
 
   if status == 200:
     response = json.loads(request.content)
-    print(response)
+    key = response["session"]
+    print(f'Session Key is: {key}')
   else:
     print (f"error returned, code {status}")
 
