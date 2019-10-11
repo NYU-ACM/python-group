@@ -1,2 +1,5 @@
-name = 'Winter'
-print(name)
+name = 'Winter '
+season = 'Winter '
+status = 'is coming '
+
+print(name + status)
