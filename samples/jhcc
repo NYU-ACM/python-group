@@ -1,0 +1,6 @@
+import random
+
+id = ["Juelle", "Michael", "Winter", "Don"]
+
+print(id[random.randint(-3, 3)] + " is sitting in the conference room.")
+
