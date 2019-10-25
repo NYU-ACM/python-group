@@ -43,7 +43,7 @@ while True:
     else:
         print("Do you even language? ")
 
-##at this point I want to learn how to accept any alphbet based answer as an acceptable break to the loop.
+##at this point I want to learn how to accept any alphabet based answer as an acceptable break to the loop.
 ##another work around is to reject numbers/integers as appropriate answers.
 while True:
     answer3 = input("Tell me about your favorite color. Do you have a favorite color? Pick one. ")
